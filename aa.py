@@ -106,18 +106,18 @@
 
 ## program that takes a number from user and returns the natural مجموع الارقام الصحيحة
 
-number = float(input('Choose a number ya 3am el 7ag: '))
+# number = float(input('Choose a number ya 3am el 7ag: '))
 
-# [1,2,3,4,5, .....]
-sum = 0
+# # [1,2,3,4,5, .....]
+# sum = 0
 
 
-iterator = 0
-while iterator <= number: #True
-  sum +=iterator
-  iterator += .5
+# iterator = 0
+# while iterator <= number: #True
+#   sum +=iterator
+#   iterator += .5
 
-print(sum)
+# print(sum)
 
 
 

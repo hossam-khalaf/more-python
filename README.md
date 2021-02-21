@@ -17,3 +17,5 @@
 ## While loop
 
 - Iterator || Counter
+
+## range() function
